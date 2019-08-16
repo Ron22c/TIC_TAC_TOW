@@ -1,0 +1,13 @@
+#heading{
+  text-align: center;
+}
+#tableBox{
+  margin: auto;
+}
+td{
+  height: 150px;
+  width: 150px;
+  border: black 3px solid;
+  font-size: 100px;
+  text-align: center;
+}
